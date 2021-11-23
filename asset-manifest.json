@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/UX-UI-website/static/css/main.cae5baac.chunk.css",
+    "main.js": "/UX-UI-website/static/js/main.f78b60d1.chunk.js",
+    "main.js.map": "/UX-UI-website/static/js/main.f78b60d1.chunk.js.map",
+    "runtime-main.js": "/UX-UI-website/static/js/runtime-main.27032c16.js",
+    "runtime-main.js.map": "/UX-UI-website/static/js/runtime-main.27032c16.js.map",
+    "static/js/2.66625102.chunk.js": "/UX-UI-website/static/js/2.66625102.chunk.js",
+    "static/js/2.66625102.chunk.js.map": "/UX-UI-website/static/js/2.66625102.chunk.js.map",
+    "index.html": "/UX-UI-website/index.html",
+    "static/css/main.cae5baac.chunk.css.map": "/UX-UI-website/static/css/main.cae5baac.chunk.css.map",
+    "static/js/2.66625102.chunk.js.LICENSE.txt": "/UX-UI-website/static/js/2.66625102.chunk.js.LICENSE.txt",
+    "static/media/ai.aa60586b.png": "/UX-UI-website/static/media/ai.aa60586b.png",
+    "static/media/blog01.cefc0932.png": "/UX-UI-website/static/media/blog01.cefc0932.png",
+    "static/media/blog02.ab0eb367.png": "/UX-UI-website/static/media/blog02.ab0eb367.png",
+    "static/media/blog03.d9223238.png": "/UX-UI-website/static/media/blog03.d9223238.png",
+    "static/media/blog04.742c1357.png": "/UX-UI-website/static/media/blog04.742c1357.png",
+    "static/media/blog05.bfaa1c1e.png": "/UX-UI-website/static/media/blog05.bfaa1c1e.png",
+    "static/media/logo.16efaf42.svg": "/UX-UI-website/static/media/logo.16efaf42.svg",
+    "static/media/people.5cd2d6fb.png": "/UX-UI-website/static/media/people.5cd2d6fb.png",
+    "static/media/possibility.525f13b6.png": "/UX-UI-website/static/media/possibility.525f13b6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27032c16.js",
+    "static/js/2.66625102.chunk.js",
+    "static/css/main.cae5baac.chunk.css",
+    "static/js/main.f78b60d1.chunk.js"
+  ]
+}
